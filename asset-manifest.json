@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/bucket-list-app/static/css/main.9691e1f7.css",
+    "main.js": "/bucket-list-app/static/js/main.da4a3b63.js",
+    "index.html": "/bucket-list-app/index.html",
+    "main.9691e1f7.css.map": "/bucket-list-app/static/css/main.9691e1f7.css.map",
+    "main.da4a3b63.js.map": "/bucket-list-app/static/js/main.da4a3b63.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9691e1f7.css",
+    "static/js/main.da4a3b63.js"
+  ]
+}
